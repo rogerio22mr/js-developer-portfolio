@@ -1,47 +1,26 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
+  "nome": "Rogerio Mateus Ricardo",
+  "titulo": "Técnico em Programação",
   "localidade": {
-    "cidade": "Araraquara",
+    "cidade": "Jaboticabal",
     "estado": "São Paulo",
     "pais": "Brasil"
   },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "telefone": "(16) 98261-9820",
+  "email": "rogerio22mr@gmail.com",
   "skills": {
     "hardSkills": [
-      {
-        "nome": "Android",
-        "logo": "TODO"
-      },
-      {
-        "nome": "Java",
-        "logo": "TODO"
-      },
-      {
-        "nome": "Kotlin",
-        "logo": "TODO"
-      }
+      ""
     ],
     "softSkills": [
-      "Comunicação",
-      "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Trabalho em Equipe",
+      "Dedicado",
+      "Comunicativo"
     ]
   },
   "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
+    "Português",
+    "Inglês"
   ],
   "educacao": [
     {
@@ -117,11 +96,29 @@
   ],
   "experiencias": [
     {
-      "nome": "Education Tech Lead ",
+      "nome": "Estágio Back End Web Developer",
       "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
+      "instituicao": "Geodesign Estratégia e Marketing",
       "periodo": {
-        "inicio": "03/2021",
+        "inicio": "07/2019",
+        "fim": "11/2019"
+      }
+    },
+    {
+      "nome": "Técnico em Service Desk",
+      "descricao": "",
+      "instituicao": "Siplan",
+      "periodo": {
+        "inicio": "01/2022",
+        "fim": "02/2024"
+      }
+    },
+    {
+      "nome": "Técnico em Programção",
+      "descricao": "",
+      "instituicao": "Siplan",
+      "periodo": {
+        "inicio": "02/2024",
         "fim": "Atualmente"
       }
     }
