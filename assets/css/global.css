@@ -1,67 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 * {
-    box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  list-style: none;
+  -webkit-user-select: none;
+  user-select: none;
 }
 
 @font-face {
-    font-family: 'Neue Machina';
-    src: url('/assets/fonts/neue-machina-regular.otf');
-}
-
-body {
-    background-color: #000;
-    color: #fff;
-}
-
-a {
-    color: #fff;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-.main {
-    margin: 1rem;
-    padding: 1rem;
-    border: 1px solid #fff;
-    border-radius: 1rem;
-}
-
-.main::before,
-.main::after {
-    content: '';
-    background-image: url('/assets/img/background.svg');
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: inline-block;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 140vw;
-    height: 100vh;
-    z-index: -1;
-}
-
-.main::after {
-    content: '';
-    top: auto;
-    left: auto;
-    bottom: 0;
-    right: 0;
-    transform: rotate(180deg);
-}
-
-
-@media only screen and (min-width: 768px) {
-    .main {
-        max-width: 1024px;
-        margin: 1rem auto;
-    }
-
-    .main::before,
-    .main::after {
-        width: 70vw;
-    }
+  font-family: 'Neue Machine';
+  src: url('../fonts/neue_machina.otf');
 }
