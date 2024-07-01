@@ -28,23 +28,23 @@
   "portfolio": [
     {
       "nome": "Java Padrões de Projeto",
-      "gitHub": "https://github.com/rogerio22mr/java-pradroes-de-projetos",
+      "gitHub": "https://github.com/rogerio22mr/java-pradroes-de-projetos"
     },
     {
       "nome": "Academia Digital",
-      "gitHub": "https://github.com/rogerio22mr/academia-digital/tree/projeto_base",
+      "gitHub": "https://github.com/rogerio22mr/academia-digital/tree/projeto_base"
     },
     {
       "nome": "Clone HBO Max",
-      "gitHub": "https://github.com/rogerio22mr/hbomax/tree/template-desafio",
+      "gitHub": "https://github.com/rogerio22mr/hbomax/tree/template-desafio"
     },
     {
       "nome": "Clone Home Page Youtube",
-      "gitHub": "https://github.com/rogerio22mr/clone-homepage-youtube",
+      "gitHub": "https://github.com/rogerio22mr/clone-homepage-youtube"
     },
     {
       "nome": "Portfolio",
-      "gitHub": "https://github.com/rogerio22mr/js-developer-portfolio",
+      "gitHub": "https://github.com/rogerio22mr/js-developer-portfolio"
     }
   ],
   "experiencias": [
