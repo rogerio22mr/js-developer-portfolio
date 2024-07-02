@@ -1,19 +1,20 @@
 {
-  "nome": "Rogerio Mateus Ricardo",
-  "titulo": "Técnico em Programação",
-  "localidade": {
-    "cidade": "Jaboticabal",
-    "estado": "São Paulo",
-    "pais": "Brasil"
+  "photo": "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/Me.png",
+  "name": "Rogerio Mateus Ricardo",
+  "job": "Técnico em Programação",
+  "location": {
+    "city": "Jaboticabal",
+    "state": "São Paulo",
+    "country": "Brasil"
   },
-  "telefone": "(16) 98261-9820",
+  "phone": "(16) 98261-9820",
   "email": "rogerio22mr@gmail.com",
   "skills": {
     "hardSkills": [
-      "https://github.com/rogerio22mr/js-developer-portfolio/blob/bc0a82fa8e099a518e7ee4df989c873df2f8e655/assets/images/hard_skills/java.svg",
-      "https://github.com/rogerio22mr/js-developer-portfolio/blob/bc0a82fa8e099a518e7ee4df989c873df2f8e655/assets/images/hard_skills/html5.svg",
-      "https://github.com/rogerio22mr/js-developer-portfolio/blob/bc0a82fa8e099a518e7ee4df989c873df2f8e655/assets/images/hard_skills/css.svg",
-      "https://github.com/rogerio22mr/js-developer-portfolio/blob/bc0a82fa8e099a518e7ee4df989c873df2f8e655/assets/images/hard_skills/js.svg"
+      "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/java.svg",
+      "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/html5.svg",
+      "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/css.svg",
+      "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/js.svg"
     ],
     "softSkills": [
       "Trabalho em Equipe",
@@ -21,58 +22,58 @@
       "Comunicativo"
     ]
   },
-  "idiomas": [
+  "languages": [
     "Português",
     "Inglês"
   ],
   "portfolio": [
     {
-      "nome": "Java Padrões de Projeto",
+      "name": "Java Padrões de Projeto",
       "gitHub": "https://github.com/rogerio22mr/java-pradroes-de-projetos"
     },
     {
-      "nome": "Academia Digital",
+      "name": "Academia Digital",
       "gitHub": "https://github.com/rogerio22mr/academia-digital/tree/projeto_base"
     },
     {
-      "nome": "Clone HBO Max",
+      "name": "Clone HBO Max",
       "gitHub": "https://github.com/rogerio22mr/hbomax/tree/template-desafio"
     },
     {
-      "nome": "Clone Home Page Youtube",
+      "name": "Clone Home Page Youtube",
       "gitHub": "https://github.com/rogerio22mr/clone-homepage-youtube"
     },
     {
-      "nome": "Portfolio",
+      "name": "Portfolio",
       "gitHub": "https://github.com/rogerio22mr/js-developer-portfolio"
     }
   ],
   "experiencias": [
     {
-      "nome": "Estágio Back End Web Developer",
-      "descricao": "",
-      "instituicao": "Geodesign Estratégia e Marketing",
-      "periodo": {
-        "inicio": "07/2019",
-        "fim": "11/2019"
+      "name": "Estágio Back End Web Developer",
+      "description": "",
+      "institution": "Geodesign Estratégia e Marketing",
+      "time": {
+        "start": "07/2019",
+        "end": "11/2019"
       }
     },
     {
-      "nome": "Técnico em Service Desk",
-      "descricao": "",
-      "instituicao": "Siplan",
-      "periodo": {
-        "inicio": "01/2022",
-        "fim": "02/2024"
+      "name": "Técnico em Service Desk",
+      "description": "",
+      "institution": "Siplan",
+      "time": {
+        "start": "01/2022",
+        "end": "02/2024"
       }
     },
     {
-      "nome": "Técnico em Programação",
-      "descricao": "",
-      "instituicao": "Siplan",
-      "periodo": {
-        "inicio": "02/2024",
-        "fim": "Atualmente"
+      "name": "Técnico em Programação",
+      "description": "",
+      "institution": "Siplan",
+      "time": {
+        "start": "02/2024",
+        "end": "Atualmente"
       }
     }
   ]
