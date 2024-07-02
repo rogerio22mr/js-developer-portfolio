@@ -11,10 +11,22 @@
   "email": "rogerio22mr@gmail.com",
   "skills": {
     "hardSkills": [
-      "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/java.svg",
-      "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/html5.svg",
-      "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/css.svg",
-      "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/js.svg"
+      {
+        "name": "JAVA",
+        "imageLink": "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/java.svg"
+      },
+      {
+        "name": "HTML",
+        "imageLink": "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/html5.svg"
+      },
+      {
+        "name": "CSS",
+        "imageLink": "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/css.svg"
+      },
+      {
+        "name": "JAVA SCRIPT",
+        "imageLink": "https://raw.githubusercontent.com/rogerio22mr/js-developer-portfolio/main/assets/images/hard_skills/js.svg"
+      }
     ],
     "softSkills": [
       "Trabalho em Equipe",
