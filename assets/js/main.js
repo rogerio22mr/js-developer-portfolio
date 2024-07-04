@@ -61,11 +61,11 @@ function updateProjectsList(profileData) {
 function updateProfissionalExperience(profileData) {
   const professional_experience = document.getElementById('professional_experience');
 
-  const formatedList = profileData.experiencias.map((experiencia) => {
+  const formatedList = profileData.experience.map((experience) => {
             return `<li class="experience">
-              <h2 class="experience__title">${experiencia.name}</h2>
-              <span class="experience__date">${experiencia.time.start} - ${experiencia.time.end}</span>
-              <p class="experience__description">${experiencia.description}</p>
+              <h2 class="experience__title">${experience.name}</h2>
+              <span class="experience__date">${experience.time.start} - ${experience.time.end}</span>
+              <p class="experience__description">${experience.description}</p>
             </li>
             `});
 

@@ -60,10 +60,10 @@
       "gitHub": "https://github.com/rogerio22mr/js-developer-portfolio"
     }
   ],
-  "experiencias": [   
+  "experience": [   
     {
       "name": "Técnico em Programação",
-      "description": "Como Técnico em Programação na [Nome da Empresa], utilizei a ferramenta Bubble.io para desenvolver aplicações web sem a necessidade de código. Minhas responsabilidades incluíram a criação e manutenção de funcionalidades personalizadas, integração de APIs externas, e otimização da experiência do usuário. Trabalhei de perto com clientes para entender suas necessidades e traduzir requisitos de negócios em soluções funcionais e eficientes. Essa experiência me permitiu aprimorar minhas habilidades em desenvolvimento de software visual, resolução de problemas complexos e gestão de projetos.",
+      "description": "Como Técnico em Programação na Siplan, estou utlizando a ferramenta Bubble.io para desenvolver aplicações web e utlizando conhecimentos de banco de dados para relizar a construção dos selects para estração dos dados. Minhas responsabilidades incluem a criação e manutenção de funcionalidades personalizadas, integração de APIs externas, e otimização da experiência do usuário. Essa experiência está permintindo aprimorar minhas habilidades em desenvolvimento de software visual, resolução de problemas complexos e gestão de projetos.",
       "institution": "Siplan",
       "time": {
         "start": "02/2024",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Técnico em Service Desk",
-      "description": "Como Técnico em Service Desk na [Nome da Empresa], fui responsável por fornecer suporte técnico de primeira linha aos usuários. Minhas principais atividades incluíram a resolução de problemas de hardware e software, configuração e manutenção de sistemas, e gerenciamento de tickets de suporte. Além disso, prestei assistência remota e presencial, garantindo a satisfação dos usuários e a continuidade das operações diárias. Minha experiência me permitiu desenvolver habilidades sólidas em comunicação, resolução de problemas e gerenciamento de tempo.",
+      "description": "Como Técnico em Service Desk na Siplan, fui responsável por fornecer suporte técnico aos usuários. Minhas principais atividades incluíram a resolução de problemas de software, configuração e manutenção dos sistemas. Minha experiência me permitiu desenvolver habilidades sólidas em comunicação, resolução de problemas e gerenciamento de tempo.",
       "institution": "Siplan",
       "time": {
         "start": "01/2022",
@@ -81,7 +81,7 @@
     },
     {
       "name": "Estágio Back End Web Developer",
-      "description": "Durante meus 4 meses como Estagiário de Back-End na [Nome da Empresa], desenvolvi e mantive aplicações utilizando PHP. Colaborei com a equipe de front-end na integração de sistemas, gerenciei e otimizei bancos de dados e participei de revisões de código e processos de desenvolvimento ágil. Essa experiência aprimorou minhas habilidades técnicas e proporcionou um entendimento valioso das práticas de desenvolvimento de software.",
+      "description": "No estágio desenvolvi e mantive aplicações utilizando PHP, colaborei com a equipe no desevolvimento de sites. Essa experiência aprimorou minhas habilidades técnicas e proporcionou um entendimento valioso das práticas de desenvolvimento de sites.",
       "institution": "Geodesign Estratégia e Marketing",
       "time": {
         "start": "07/2019",
