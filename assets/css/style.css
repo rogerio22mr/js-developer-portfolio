@@ -271,6 +271,8 @@ main {
   font-weight: lighter;
   font-size: 1rem;
   display: block;
+  width: 100%;
+  word-break: break-all;
   margin-top: .5rem;
 }
 
