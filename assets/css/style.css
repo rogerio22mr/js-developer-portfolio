@@ -2,8 +2,8 @@
 
 body {
   background: linear-gradient(140deg, transparent, black 40% 60%, transparent),
-  linear-gradient(140deg, red 0% 20%, transparent , transparent),
-  linear-gradient(140deg, transparent, transparent, blue 100%);
+  linear-gradient(140deg, rgb(43, 43, 161) 0% 20%, transparent , transparent),
+  linear-gradient(140deg, transparent, transparent, rgb(5, 5, 231) 100%);
   color: white;
   padding: 1rem;
   background-repeat: no-repeat;
